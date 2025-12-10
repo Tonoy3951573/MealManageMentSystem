@@ -53,7 +53,7 @@ Admin can:
 ## Command for Compiling and Running the code
 
 ```bash
-gcc main.c meal.c auth.c student.c file_handeler.c helper.c billing.c -o MealManagement;
+gcc main.c meal.c auth.c student.c file_handeler.c helper.c billing.c -o MealManagement;./MealManagement
 ```
 ---
 ## Project Structure
